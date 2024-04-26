@@ -124,7 +124,7 @@ INSERT INTO books_authors (author_id, book_id) VALUES
     (2, 2), -- Frank Herbert for Dune
     (3, 3), -- Dan Brown for The Da Vinci Code
     (4, 4), -- Gillian Flynn for Gone Girl
-    (2, 1), -- Just for the example
+    (2, 1), 
     (3, 2);
 
 
